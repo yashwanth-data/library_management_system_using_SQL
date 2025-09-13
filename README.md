@@ -1,7 +1,7 @@
 # library_management_system_using_SQL
 
 ## Author
-**Yashwanth Yashu**
+**Yashwanth N R**
 
 - LinkedIn: https://www.linkedin.com/in/yashwanthnr2004/
 - GitHub: https://github.com/yashwanth-data
