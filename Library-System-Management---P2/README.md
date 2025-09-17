@@ -516,7 +516,8 @@ This project showcases SQL skills essential for database management and analysis
 
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/yashwanthnr2004/)
-
+-**e-mail**:yashuambika00@gmail.com
 
 Thank you for your interest in this project!
+
 
